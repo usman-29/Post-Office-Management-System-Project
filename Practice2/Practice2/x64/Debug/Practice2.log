@@ -1,0 +1,15 @@
+﻿  PostalWorkers.cpp
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(105,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(123,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(328,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(345,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(362,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(388,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostalWorkers.cpp(406,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  PostOffice.cpp
+C:\Users\jovag\source\repos\Practice2\Practice2\PostOffice.cpp(53,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\jovag\source\repos\Practice2\Practice2\PostOffice.cpp(87,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Practice2.vcxproj -> C:\Users\jovag\source\repos\Practice2\x64\Debug\Practice2.exe
